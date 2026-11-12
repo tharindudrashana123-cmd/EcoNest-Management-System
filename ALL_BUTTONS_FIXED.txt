@@ -1,0 +1,11 @@
+EcoNest - ALL BUTTONS VISIBILITY FIX
+
+- All action buttons on Dashboard, Products, Clients, Inventory, Delivery Agents, Orders, Deliveries, Reports, Notifications, and Email Settings share high-contrast custom rendering.
+- Filled buttons: strong dark green background and bold white 16pt text.
+- Secondary buttons: white background with bold dark green 16pt text and visible borders.
+- Hover and pressed feedback is supported.
+- Windows native Look & Feel no longer replaces the action button background with a pale blue rectangle.
+- Java compiler test: javac -encoding UTF-8 -d build src/EcoNestApp.java
+- Launch using run-windows.bat.
+
+NOTE: Keep your previous project folder if you added custom data. Back it up before moving anything.

@@ -1,0 +1,1 @@
+High-contrast update: Sidebar navigation text is bold white on dark green on EVERY page. Windows native JButton paint override removed. Table text enlarged for readability. Run run-windows.bat as before. If you have existing data, preserve your old data files.
